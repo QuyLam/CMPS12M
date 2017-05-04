@@ -1,2 +1,2 @@
-# CMPS12B
-Introduction to Data Structures
+# CMPS12M
+Introduction to Data Structures - Lab Assignments
